@@ -1,3 +1,3 @@
-# In "KSA_Vectorization.ipynb", It is still required to run the cell that vectorized the sentences in the dataset obtained from Indeed.
+# In "KSA_Vectorization.ipynb", It is still required to run the cell that vectorizes the sentences in the dataset obtained from Indeed.
 # Future plan is to run a cosine_similarity() on the workroles from the syllabi dataset and the job-title from the Indeed dataset and group similar jobs together.
 # Then run a cosine_similarity between the KSAs of the groups and the KSAs of the workrole that they are similar to.
